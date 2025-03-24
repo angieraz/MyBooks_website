@@ -11,3 +11,18 @@ Authorization form with checks:
 Home page:
 ![image](https://github.com/user-attachments/assets/9370efc1-db2e-440d-ad3f-cfc844781879)
 
+You can add a book:
+![image](https://github.com/user-attachments/assets/7fb33582-8ab5-47b4-b4fa-1917e908ce23)
+![image](https://github.com/user-attachments/assets/74ed190b-22d5-4c68-be68-64fe2425beba)
+![image](https://github.com/user-attachments/assets/0ace2303-05c0-4fd6-a0aa-5cf404a0d2fa)
+
+Change book information:
+![image](https://github.com/user-attachments/assets/2c131fa2-1daa-429b-8e5b-a98fa414d9d0)
+![image](https://github.com/user-attachments/assets/d6f965ed-da42-4c57-9f33-c237e1fe5b19)
+
+Add to favorites:
+![image](https://github.com/user-attachments/assets/1454e563-0c05-425f-9f85-f0901c8ac125)
+
+And delete the book:
+![image](https://github.com/user-attachments/assets/740af89d-e4bc-4eff-b26b-87f379dfb8f7)
+![image](https://github.com/user-attachments/assets/9b50ec41-5d28-4f7e-a9b7-f9a564406d8f)
