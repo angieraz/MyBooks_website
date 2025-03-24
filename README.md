@@ -1,3 +1,5 @@
+React , Node, Express, MongoDB.
+
 User registration with verifications:
 ![image](https://github.com/user-attachments/assets/34c09d9b-482f-4a74-b8e3-c5dd53bb28a1)
 ![image](https://github.com/user-attachments/assets/91094233-0fdf-4bf4-9f71-74eb77770004)
